@@ -1,6 +1,6 @@
-# R script to conert the given data to a tidy data set.
+# R script to convert the *Human Activity Recognition* data to a tidy data set for the course project.
 
-## This Readme document is written to explain the R script run_analysis.R, an R script for the course project. Comments have also been included in the script itself.
+This Readme document is written to explain the R script run_analysis.R, an R script for the course project. Comments have also been included in the script itself.
 
 ## The run.analysis script
 

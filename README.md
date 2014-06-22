@@ -25,7 +25,6 @@ The initial column names for all the variables were replaced with the names prov
 *From the skinny dataframe, use dcast to create a tidy dataframe with the average of each variable for each activity and each subject.
 
 
-#### And so ends my catechism.
 
 
 

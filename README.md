@@ -22,7 +22,10 @@ The initial column names for all the variables were replaced with the names prov
 
 *first create a skinny dataframe with "activity" and "subject" as the IDs, and the mean/std variables as the variables. For this the "melt" function from the "reshape2" package was used. The dataframe was 813,621 rows long.
 
-*From the skinny dataframe, use dcast to create a tidy dataframe with the average of each variable for each activity and each subject.
+*From the skinny dataframe, use dcast to create the tidy dataframe. with the average of each variable for each activity and each subject.
+
+### The result
+A tidy data set with the average of each variable for each activity and each subject.
 
 
 
